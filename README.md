@@ -20,13 +20,13 @@ DataFrame со столбцами:
 - `session_id` — номер сессии пользователя
 - `global_session_id` — уникальный ID сессии в формате `customerID_sessionID`
 
-## Шаг 3: Обновите pip
+## Обновите pip
 
 ```bash
 python -m pip install --upgrade pip
 ```
 
-## Шаг 4: Установите зависимости
+## Установите зависимости
 
 ```bash
 pip install -r requirements.txt
